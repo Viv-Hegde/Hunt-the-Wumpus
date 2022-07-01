@@ -19,6 +19,6 @@ How to use this Repo: </h2>
 <li>Once all files have been compiled, run the executable file ".exe" through the terminal </li>
 NOTE: The main function for this project takes 3 arguments in this order: "Number of Bats", "Number of Pits", "Wumpus Tiredness".<br>
 NOTE: In action, this would look something like: "./a.exe 3 0 0"
-<li>Good luck with the hunt!</li>
+<li>HAPPY HUNTING!</li>
 <br><br><br>
 @author: Vivek Hegde
